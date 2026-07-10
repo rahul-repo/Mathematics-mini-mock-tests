@@ -86,6 +86,10 @@ header p{
 
 }
 
+.scroll:hover{
+    animation-play-state: paused;
+}
+
 @keyframes scroll-left{
 
     from{
